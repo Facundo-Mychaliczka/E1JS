@@ -101,3 +101,4 @@ let multiplicador = 2
 for (let numero = 0; numero < arrayNums.length; numero++){
     console.log(`${arrayNums[numero]} multiplicado por ${multiplicador} es `+arrayNums[numero]*multiplicador);
 }
+
